@@ -1,0 +1,92 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.main{
+    margin-top: 60px;
+    height: 600px;
+    background-color: rgba(202, 197, 197, 0.858);
+}
+.detail{
+    float: left;
+    width: 700px;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+h1{
+    font-style: italic;
+    color: red;
+    font-size: 30px;
+
+}
+#one{
+    font-size: 30px;
+    font-weight: 800;
+}
+.mail {
+    width: 323px;
+    height: 100px;
+    border: 1px solid rgb(62, 62, 62);
+    display: inline-block;
+    margin: 0%;
+}
+.contact {
+    margin: 0%;
+    float: right;
+    width: 373px;
+    height: 100px;
+    border: 1px solid rgb(62, 62, 62);
+}
+i {
+    float: left;
+    color: rgb(228, 3, 3);
+    padding: 30px;
+}
+
+
+.mail p {
+    margin: 2px;
+}
+
+.contact p {
+    margin: 2px;
+}
+.contacin {
+    font-size: 28px;
+    font-weight: 800;
+    padding-top: 15px;
+}
+.book {
+    text-align: center;
+    float: right;
+    background-color: white;
+    width: 450px;
+    height: 430px;
+    margin: 100px;
+    border-radius: 10px;
+}
+
+.table {
+    font-size: 20px;
+    margin: auto;
+    padding-top: 40px;
+}
+
+input {
+    text-align: center;
+    width: 300px;
+    height: 35px;
+    margin: 15px;
+    border-color: rgb(217, 215, 215);
+}
+
+button {
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(228, 3, 3);
+    color: white;
+    margin-top: 10px;
+    width: 110px;
+    height: 38px;
+   
+}
